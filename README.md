@@ -114,8 +114,8 @@ Then display it:
 
 ## Data Warehouse Schema
 
-![Galaxy Schema](images/E-Commerce Galaxy Schema.PNG)
-![Star Schema](images/E-Commerce Star Schema.PNG)
+![Galaxy Schema](images/[E-Commerce Galaxy Schema.PNG])
+![Star Schema](images/[E-Commerce Star Schema.PNG])
 
 
 ---
