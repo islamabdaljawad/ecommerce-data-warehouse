@@ -117,6 +117,7 @@ Then display it:
 ![Galaxy Schema](images/E-Commerce%20Galaxy%20Schema.PNG)
 ### Star Schema
 ![Star Schema](images/E-Commerce%20Star%20Schema.PNG)
+
 ---
 
 # 📊 Example Analytical Queries
