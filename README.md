@@ -56,7 +56,6 @@ Data is extracted from multiple Excel datasets containing:
 
 Using **SSIS transformations**, the data is cleaned and prepared:
 
-* Data type conversion
 * Removing null values
 * Mapping columns
 * Creating relationships between tables
@@ -116,7 +115,7 @@ Then display it:
 ## Data Warehouse Schema
 
 ![Galaxy Schema](images/E-Commerce Galaxy Schema.PNG)
-![Star Schema](images/E-Commerce Star Schema .PNG)
+![Star Schema](images/E-Commerce Star Schema.PNG)
 
 
 ---
@@ -230,7 +229,7 @@ ecommerce-datawarehouse/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/ecommerce-datawarehouse.git
+git clone https://github.com/islamabdaljawad/ecommerce-data-warehouse.git
 ```
 
 ### 2️⃣ Create the Database
@@ -292,5 +291,4 @@ Possible enhancements:
 # 👨‍💻 Author
 
 Islam abd Aljawad Ahmed
-Data Engineering / Business Intelligence Project
 
