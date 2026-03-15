@@ -1,9 +1,3 @@
-Great 👍 I’ll extend the README with the **extra sections that make a GitHub data engineering project look professional**: project description, architecture diagram, screenshots, and Power BI integration.
-
-You can append these sections to your README.
-
----
-
 # 📊 E-Commerce Data Warehouse (SSIS + SQL Server)
 
 ## 📌 Project Description
@@ -113,16 +107,17 @@ You can include your schema image in the repository and display it in the README
 Example:
 
 ```
-/images/schema.png
+/images/E-Commerce Galaxy Schema.png
 ```
 
 Then display it:
 
-```markdown
+
 ## Data Warehouse Schema
 
-![Galaxy Schema](images/schema.png)
-```
+![Galaxy Schema](images/E-Commerce Galaxy Schema.PNG)
+![Star Schema](images/E-Commerce Star Schema .PNG)
+
 
 ---
 
@@ -216,7 +211,7 @@ ecommerce-datawarehouse/
 │   └── payments.xlsx
 │
 ├── ssis/
-│   └── ecommerce_etl.dtsx
+│   └── etl.dtsx
 │
 ├── sql/
 │   ├── create_tables.sql
@@ -243,7 +238,7 @@ git clone https://github.com/yourusername/ecommerce-datawarehouse.git
 Open **SQL Server Management Studio** and run:
 
 ```sql
-CREATE DATABASE EcommerceDW;
+CREATE DATABASE DM_Orders;
 ```
 
 ---
@@ -253,7 +248,9 @@ CREATE DATABASE EcommerceDW;
 Run the SQL scripts inside:
 
 ```
-/sql/create_tables.sql
+/sql/create_Qalaxy_schema.sql
+/sql/create_star_schema.sql
+
 ```
 
 ---
