@@ -113,9 +113,9 @@ Then display it:
 
 
 ## Data Warehouse Schema
-###Galaxy schema
+### Galaxy schema
 ![Galaxy Schema](images/E-Commerce%20Galaxy%20Schema.PNG)
-###Star Schema
+### Star Schema
 ![Star Schema](images/E-Commerce%20Star%20Schema.PNG)
 ---
 
