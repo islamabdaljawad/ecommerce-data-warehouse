@@ -113,11 +113,10 @@ Then display it:
 
 
 ## Data Warehouse Schema
-
-![Galaxy Schema](images/[E-Commerce Galaxy Schema.PNG])
-![Star Schema](images/[E-Commerce Star Schema.PNG])
-
-
+###Galaxy schema
+![Galaxy Schema](images/E-Commerce%20Galaxy%20Schema.PNG)
+###Star Schema
+![Star Schema](images/E-Commerce%20Star%20Schema.PNG)
 ---
 
 # 📊 Example Analytical Queries
