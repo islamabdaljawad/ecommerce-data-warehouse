@@ -116,7 +116,7 @@ Then display it:
 ### Galaxy schema
 ![Galaxy Schema](images/E-Commerce%20Galaxy%20Schema.PNG)
 ### Star Schema
-![Star Schema](images/E-Commerce%20Star%20Schema.PNG)
+![Star Schema](images/E-Commerce%20Star%20Schema%20.PNG)
 
 ---
 
